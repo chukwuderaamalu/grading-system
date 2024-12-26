@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(pink, white);
+}
+
+button{
+    background-color: bisque;
+    cursor: pointer;
+    margin-top: 10px;
+}
